@@ -21,7 +21,7 @@ editions:
 - short: J
 assets:
   parts:
-  - {seq: 0, filename: KR6q0441_000.yaml, hash: 'sha256:2c2d34d7e4b3f34ac20b57326d99ef21fe143d17af7d238e5891ac191b26fb08'}
+  - {seq: 0, filename: KR6q0441_000.yaml, hash: 'sha256:3101c5430ed1e3e18b14be9e8f8dc0cd1396868e17581cf63a3897349b82f0e9'}
   - {seq: 1, filename: KR6q0441_001.yaml, hash: 'sha256:74e03539fb491e017707f1d6022980dffcc552727197480fc7e3fa0be7232455'}
   - {seq: 2, filename: KR6q0441_002.yaml, hash: 'sha256:9d8b03920be8c5570a4b0577e9b1d163af8e7b3159ad1905317f4285a246345f'}
   - {seq: 3, filename: KR6q0441_003.yaml, hash: 'sha256:a7662eae5cf9c27ef0ec7457a207573a0921dfcf82645d5d5eff8291105c3ae5'}
@@ -29,7 +29,7 @@ assets:
   - {seq: 5, filename: KR6q0441_005.yaml, hash: 'sha256:3a65fe4830a45bfa8a5c0a3431fcb438211be2db30cb7ee83354fd719946409b'}
   - {seq: 6, filename: KR6q0441_006.yaml, hash: 'sha256:05f1f88260c574e3a99d4582bc92e6b242540cd0664c6b947a2d15a196e82ff7'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0441_000.markers.yaml, hash: 'sha256:ae8f85eadf773f5457893177a51159e6192ecdef7c49833cd46926fcbe7869b8'}
+  - {seq: 0, role: markers, filename: assets/KR6q0441_000.markers.yaml, hash: 'sha256:27d2dd2ead2792459afe76b3bdd43a1b2cfdb3c94d5a2980700b3a483fa01de4'}
   - {seq: 1, role: markers, filename: assets/KR6q0441_001.markers.yaml, hash: 'sha256:a9fd412398ca4c0c686be4888754d38e2c0a0c3545e1cf7e439aa6385fb4d1f9'}
   - {seq: 2, role: markers, filename: assets/KR6q0441_002.markers.yaml, hash: 'sha256:d553a8f4c98c39ca45a1ca165a1529e86c1b862b74616ab4ace2122a2220faec'}
   - {seq: 3, role: markers, filename: assets/KR6q0441_003.markers.yaml, hash: 'sha256:b70047c54edf50a8bf741682ce173827a47e0aa7b97c5b60d4bfbaf79d58576c'}
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0441_J_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 序
@@ -51,7 +51,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0441_J_000-mulu-2
     span:
-    - front
+    - body
     - 0
     - 0
   label: 徐行檗菴氏序
@@ -61,7 +61,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0441_J_000-mulu-3
     span:
-    - front
+    - body
     - 784
     - 784
   label: 葉南生序
@@ -71,7 +71,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0441_J_000-mulu-4
     span:
-    - front
+    - body
     - 1137
     - 1137
   label: 王文南序
@@ -1457,7 +1457,7 @@ table_of_contents:
   label: 碑記
   type: mulu
   level: 1
-hash: sha256:ac3456f284eb29c67b3ca43f0229b62737df5ac538e927e23c7d266493ce20a9
+hash: sha256:6d44b02aba22a17fff3058c328073e8229081f20c98cd8df24547ad9a6a33584
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
